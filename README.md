@@ -4,15 +4,17 @@
 [downloads]: https://img.shields.io/github/downloads/nhuhoai/atom-display-in-browsers/total.svg
 [travis/badge]: https://travis-ci.org/nhuhoai/atom-display-in-browsers.svg?branch=master
 [travis/project]: https://travis-ci.org/nhuhoai/atom-display-in-browsers
+[appveyor/badge]: https://ci.appveyor.com/api/projects/status/qkwn4kiefpmj2ikl/branch/master?svg=true
+[appveyor/project]: https://ci.appveyor.com/project/nhuhoai/atom-display-in-browsers/branch/master
+
 
 # Atom package - Display in browsers
 
 [![Version][version]][project]
 [![Downloads][downloads]][project]
 [![License][license]](LICENSE.md)
-
-Travis [![Build Status][travis/badge]][travis/project]<br />
-
+[![Build Status][travis/badge]][travis/project]
+[![Build status][appveyor/badge]][appveyor/project]
 
 ## Release note
 
