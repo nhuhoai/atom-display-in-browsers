@@ -42,4 +42,11 @@ This project use the [Contributor Covenant](https://www.contributor-covenant.org
 
 This project is under [MIT license](LICENSE.md).
 
+## References
+
+  - [Related project](https://atom.io/packages/open-in-browser) (inspired by this project)
+  - [Building my first atom plugin](https://blog.github.com/2016-08-19-building-your-first-atom-plugin/)
+  - [Get selected item path on right click](https://discuss.atom.io/t/get-the-active-project/29309/2)
+  - [Atom CI scripts](https://github.com/atom/ci)
+
 &copy;2018 Nhu-Hoai Robert VO
