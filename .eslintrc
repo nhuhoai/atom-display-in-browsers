@@ -3,22 +3,23 @@
 
   "env": {
     "atomtest": true,
-    "jasmine": true
+    "browser": true,
+    "jasmine": true,
+    "node": true,
   },
 
   "extends": [
     "eslint:recommended",
-    "google"
+    "google",
   ],
 
   "rules": {
     "max-len": 0,
     "semi": 2,
-    "strict": 0
+    "strict": 0,
   },
 
   "globals": {
     "atom": false,
-    "document": false
-  }
+  },
 }
