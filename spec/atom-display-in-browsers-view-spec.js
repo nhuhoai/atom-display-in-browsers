@@ -1,6 +1,6 @@
 'use babel';
 
-import AtomDisplayInBrowsersView from '../lib/atom-display-in-browsers-view';
+// import AtomDisplayInBrowsersView from '../lib/atom-display-in-browsers-view';
 
 describe('AtomDisplayInBrowsersView', () => {
   it('has one valid test', () => {

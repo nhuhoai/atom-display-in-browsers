@@ -1,6 +1,6 @@
 'use babel';
 
-import AtomDisplayInBrowsers from '../lib/atom-display-in-browsers';
+// import AtomDisplayInBrowsers from '../lib/atom-display-in-browsers';
 
 // Use the command `window:run-package-specs` (cmd-alt-ctrl-p) to run specs.
 //
@@ -8,7 +8,8 @@ import AtomDisplayInBrowsers from '../lib/atom-display-in-browsers';
 // or `fdescribe`). Remove the `f` to unfocus the block.
 
 describe('AtomDisplayInBrowsers', () => {
-  let workspaceElement, activationPromise;
+  let workspaceElement;
+  let activationPromise;
 
   beforeEach(() => {
     workspaceElement = atom.views.getView(atom.workspace);

@@ -1,0 +1,24 @@
+{
+  "parser": "babel-eslint",
+
+  "env": {
+    "atomtest": true,
+    "jasmine": true
+  },
+
+  "extends": [
+    "eslint:recommended",
+    "google"
+  ],
+
+  "rules": {
+    "max-len": 0,
+    "semi": 2,
+    "strict": 0
+  },
+
+  "globals": {
+    "atom": false,
+    "document": false
+  }
+}
