@@ -19,6 +19,14 @@ For the complete history, please refer to [CHANGELOG](CHANGELOG.md).
 
 This project use the [Semantic Versioning](https://semver.org).
 
+## Running the tests
+
+Please run tests in Atom. Open the **Command Palette** (```Cmd+Shift+P``` on MacOS or ```Ctrl+Shift+P``` on Windows/Linux) and type this command:
+
+```
+Window: Run Package Specs
+```
+
 ## Contributing
 
 This project use the [Contributor Covenant](https://www.contributor-covenant.org) ([contributing file](CONTRIBUTING.md)).
