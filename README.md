@@ -2,12 +2,17 @@
 [version]: https://img.shields.io/github/package-json/v/nhuhoai/atom-display-in-browsers.svg
 [license]: https://img.shields.io/github/license/nhuhoai/atom-display-in-browsers.svg
 [downloads]: https://img.shields.io/github/downloads/nhuhoai/atom-display-in-browsers/total.svg
+[travis/badge]: https://travis-ci.org/nhuhoai/atom-display-in-browsers.svg?branch=master
+[travis/project]: https://travis-ci.org/nhuhoai/atom-display-in-browsers
 
 # Atom package - Display in browsers
 
-[![][version]][project]
-[![][license]](LICENSE.md)
-[![][downloads]][project]
+[![Version][version]][project]
+[![Downloads][downloads]][project]
+[![License][license]](LICENSE.md)
+
+Travis [![Build Status][travis/badge]][travis/project]<br />
+
 
 ## Release note
 
